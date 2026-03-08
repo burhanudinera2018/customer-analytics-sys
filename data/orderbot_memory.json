@@ -1,0 +1,119 @@
+[
+  {
+    "timestamp": "2026-03-08T21:00:03.385799",
+    "result": {
+      "success": true,
+      "order_id": "ORD-20260308210003",
+      "customer": "John Smith",
+      "product": "HW-001",
+      "quantity": 2,
+      "processing_time": "2 minutes",
+      "timestamp": "2026-03-08T21:00:03.385738"
+    },
+    "pattern": "success_pattern"
+  },
+  {
+    "timestamp": "2026-03-08T21:00:03.393405",
+    "result": {
+      "success": true,
+      "order_id": "ORD-20260308210003",
+      "customer": "John Smith",
+      "product": "HW-001",
+      "quantity": 2,
+      "processing_time": "2 minutes",
+      "timestamp": "2026-03-08T21:00:03.393389"
+    },
+    "pattern": "success_pattern"
+  },
+  {
+    "timestamp": "2026-03-08T21:00:04.504040",
+    "result": {
+      "success": true,
+      "order_id": "ORD-20260308210003",
+      "customer": "John Smith",
+      "product": "HW-001",
+      "quantity": 2,
+      "processing_time": "2 minutes",
+      "timestamp": "2026-03-08T21:00:04.504014"
+    },
+    "pattern": "success_pattern"
+  },
+  {
+    "timestamp": "2026-03-08T21:06:38.722169",
+    "result": {
+      "success": true,
+      "order_id": "ORD-20260308210638",
+      "customer": "John Smith",
+      "product": "HW-001",
+      "quantity": 2,
+      "processing_time": "2 minutes",
+      "timestamp": "2026-03-08T21:06:38.722148"
+    },
+    "pattern": "success_pattern"
+  },
+  {
+    "timestamp": "2026-03-08T21:06:38.725538",
+    "result": {
+      "success": true,
+      "order_id": "ORD-20260308210638",
+      "customer": "John Smith",
+      "product": "HW-001",
+      "quantity": 2,
+      "processing_time": "2 minutes",
+      "timestamp": "2026-03-08T21:06:38.725521"
+    },
+    "pattern": "success_pattern"
+  },
+  {
+    "timestamp": "2026-03-08T21:06:40.073568",
+    "result": {
+      "success": true,
+      "order_id": "ORD-20260308210638",
+      "customer": "John Smith",
+      "product": "HW-001",
+      "quantity": 2,
+      "processing_time": "2 minutes",
+      "timestamp": "2026-03-08T21:06:40.073538"
+    },
+    "pattern": "success_pattern"
+  },
+  {
+    "timestamp": "2026-03-08T21:06:40.084318",
+    "result": {
+      "success": true,
+      "order_id": "ORD-20260308210640",
+      "customer": "John Smith",
+      "product": "HW-001",
+      "quantity": 2,
+      "processing_time": "2 minutes",
+      "timestamp": "2026-03-08T21:06:40.084294"
+    },
+    "pattern": "success_pattern"
+  },
+  {
+    "timestamp": "2026-03-08T21:06:40.088328",
+    "result": {
+      "success": true,
+      "order_id": "ORD-20260308210640",
+      "customer": "John Smith",
+      "product": "HW-001",
+      "quantity": 2,
+      "processing_time": "2 minutes",
+      "timestamp": "2026-03-08T21:06:40.088304"
+    },
+    "pattern": "success_pattern"
+  },
+  {
+    "timestamp": "2026-03-08T21:06:40.337648",
+    "result": {
+      "success": true,
+      "order_id": "ORD-20260308210640",
+      "customer": "John Smith",
+      "product": "HW-001",
+      "quantity": 2,
+      "processing_time": "2 minutes",
+      "timestamp": "2026-03-08T21:06:40.337617"
+    },
+    "pattern": "success_pattern"
+  }
+]
